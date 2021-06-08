@@ -1,5 +1,11 @@
 # vuex-etc
 
+## Followed this tutorial:
+
+https://flaviocopes.com/vuex/
+
+(Vue 2... it will break in Vue 3.)
+
 ## Here's a jsFiddle alternative (just using CDNs instead)
 
 https://jsfiddle.net/jetweedy/3h4ym0rj/
