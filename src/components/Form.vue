@@ -1,7 +1,7 @@
 <template>
   <div>
     <label for="flavor">Favorite ice cream flavor?</label>
-    <input @input="changed" name="flavor">
+    <input @input="changed" name="flavor" :value="$store.getters.flavor" >
   </div>
 </template>
 
