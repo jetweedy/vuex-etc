@@ -1,5 +1,15 @@
 # vuex-etc
 
+## Prior Setup (leading up to this)
+
+In parent directory:
+```
+sudo apt install -g vue-cli
+vue create vuex-etc		## or whatever app name you want
+cd vuex-etc
+npm install vuex
+```
+
 ## Project setup
 ```
 npm install
